@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_7368defa66be7548ecfab58d22baeb00 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    <div style='position:fixed;bottom:20px;left:20px;z-index:9999;background:white;padding:8px 10px;border:1px solid #888;font:12px sans-serif'>Relative condition index<br>green = better rank, red = worse rank<br><i>Not an iRAP Star Rating. Line width = image count.</i></div>
+    
+            <div class="folium-map" id="map_7368defa66be7548ecfab58d22baeb00" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_7368defa66be7548ecfab58d22baeb00 = L.map(
+                "map_7368defa66be7548ecfab58d22baeb00",
+                {
+                    center: [23.728308935, 90.416603005],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 18,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var poly_line_ad3c5815bb6637d61a4a5ba05666d8e3 = L.polyline(
+                [[23.7291902, 90.4159505], [23.7279539, 90.4157489]],
+                {"bubblingMouseEvents": true, "color": "#a50026", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#a50026", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 10.0}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_ad3c5815bb6637d61a4a5ba05666d8e3.bindTooltip(
+                `<div>
+                     Dilkusha Road (387806314_4894998179) | relative index 0.72 (higher = worse rank) | 49 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ba21581d7c035086c48afc7cec432a82 = L.polyline(
+                [[23.7285146, 90.4170896], [23.7289402, 90.4163633]],
+                {"bubblingMouseEvents": true, "color": "#fed27f", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#fed27f", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 7.714285714285714}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_ba21581d7c035086c48afc7cec432a82.bindTooltip(
+                `<div>
+                     unnamed road (387813463_387813687) | relative index 0.58 (higher = worse rank) | 33 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_890ad04d588f3f7b9d987601aa7acc3e = L.polyline(
+                [[23.7280368, 90.4167233], [23.7278645, 90.4159268]],
+                {"bubblingMouseEvents": true, "color": "#fffcba", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#fffcba", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 6.142857142857142}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_890ad04d588f3f7b9d987601aa7acc3e.bindTooltip(
+                `<div>
+                     unnamed road (264891930_4894998175) | relative index 0.54 (higher = worse rank) | 22 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_14b1ca32778e2abfbe54637d62086a4f = L.polyline(
+                [[23.7278604, 90.4176521], [23.727944, 90.4170198]],
+                {"bubblingMouseEvents": true, "color": "#f2faae", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#f2faae", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 5.142857142857142}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_14b1ca32778e2abfbe54637d62086a4f.bindTooltip(
+                `<div>
+                     Dilkusha Road (387810560_9907465534) | relative index 0.53 (higher = worse rank) | 15 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_54bebacf8c44d0e5c53f8b3209eebf36 = L.polyline(
+                [[23.7280368, 90.4167233], [23.7285146, 90.4170896]],
+                {"bubblingMouseEvents": true, "color": "#006837", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#006837", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 4.428571428571429}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_54bebacf8c44d0e5c53f8b3209eebf36.bindTooltip(
+                `<div>
+                     Dilkusha Road (264891930_387813463) | relative index 0.36 (higher = worse rank) | 10 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_dcb86a016cebdc949d293faa11d2a01c = L.polyline(
+                [[23.7285146, 90.4170896], [23.7289333, 90.4173505]],
+                {"bubblingMouseEvents": true, "color": "#bb1526", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#bb1526", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 4.428571428571429}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_dcb86a016cebdc949d293faa11d2a01c.bindTooltip(
+                `<div>
+                     Dilkusha Road (387813463_6139734197) | relative index 0.70 (higher = worse rank) | 10 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5b69216401a9469505919019db87b1f0 = L.polyline(
+                [[23.7291902, 90.4159505], [23.7289402, 90.4163633]],
+                {"bubblingMouseEvents": true, "color": "#fba05b", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#fba05b", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 4.142857142857142}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_5b69216401a9469505919019db87b1f0.bindTooltip(
+                `<div>
+                     unnamed road (387806314_387813687) | relative index 0.62 (higher = worse rank) | 8 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_edbfe631d1c928265e80a4b3379df350 = L.polyline(
+                [[23.727944, 90.4170198], [23.7279726, 90.4168001]],
+                {"bubblingMouseEvents": true, "color": "#98d368", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#98d368", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 3.571428571428571}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_edbfe631d1c928265e80a4b3379df350.bindTooltip(
+                `<div>
+                     Dilkusha Road (9907465534_9907465538) | relative index 0.46 (higher = worse rank) | 4 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e719fb6f540ff7bc2cea1da7632ca424 = L.polyline(
+                [[23.7280368, 90.4167233], [23.7279726, 90.4168001]],
+                {"bubblingMouseEvents": true, "color": "#98d368", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#98d368", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 3.2857142857142856}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_e719fb6f540ff7bc2cea1da7632ca424.bindTooltip(
+                `<div>
+                     Dilkusha Road (264891930_9907465538) | relative index 0.46 (higher = worse rank) | 2 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b4e239465a3e7ae6c1b513aa029f876b = L.polyline(
+                [[23.7278645, 90.4159268], [23.7279539, 90.4157489]],
+                {"bubblingMouseEvents": true, "color": "#fffcba", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#fffcba", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.9, "smoothFactor": 1.0, "stroke": true, "weight": 3.2857142857142856}
+            ).addTo(map_7368defa66be7548ecfab58d22baeb00);
+        
+    
+            poly_line_b4e239465a3e7ae6c1b513aa029f876b.bindTooltip(
+                `<div>
+                     unnamed road (4894998175_4894998179) | relative index 0.54 (higher = worse rank) | 2 images
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

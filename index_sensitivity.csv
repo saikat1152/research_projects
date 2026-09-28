@@ -1,0 +1,12 @@
+variant,n_attr,spearman_with_M1
+M2 vs M1,6,0.88
+M3 vs M1,6,0.93
+drop q13 Roadside severity - passenger-side object,5,0.95
+drop q22 Curvature,5,0.94
+drop q25 Road condition,5,0.93
+drop q26 Delineation,5,0.91
+drop q33 Vehicle parking,5,0.87
+drop q34 Sidewalk - driver-side,5,0.89
+low-confidence threshold <= 0.3,4,0.86
+low-confidence threshold <= 0.6,7,0.92
+low-confidence threshold <= 0.8,7,0.92

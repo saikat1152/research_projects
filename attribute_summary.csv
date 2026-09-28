@@ -1,0 +1,42 @@
+q_id,attribute,distinct_answers_across_roads,varies_between_roads,modal_answer,modal_share_of_roads,answer_counts,mean_vote_agreement,batch_low_confidence_share,batch_unclassifiable_share
+1,Carriageway,2,True,Undivided road,0.8,Undivided road x8; Carriageway A of a divided road x2,0.99,0.25,0.0
+2,Motorcycle observed flow,4,True,2 to 3 motorcycles,0.4,2 to 3 motorcycles x4; _None_ x4; 1 motorcycle x1; 4 to 5 motorcycles x1,0.88,0.25,0.0
+3,Bicycle observed flow,5,True,_None_,0.4,_None_ x4; 4 to 5 bicycles x3; 1 bicycle x1; 6 to 7 bicycles x1; 2 to 3 bicycles x1,0.89,0.55,0.0
+4,Pedestrian observed flow across the road,4,True,4 to 5 pedestrians,0.5,4 to 5 pedestrians x5; 6 to 7 pedestrians x2; 1 pedestrian x2; 2 to 3 pedestrians x1,0.9,0.1,0.0
+5,Pedestrian observed flow along the road driver-side,4,True,2 to 3 pedestrians,0.7,2 to 3 pedestrians x7; _None_ x1; 4 to 5 pedestrians x1; 1 pedestrian x1,0.98,0.95,0.0
+6,Pedestrian observed flow along the road passenger-side,3,True,2 to 3 pedestrians,0.8,2 to 3 pedestrians x8; _None_ x1; 1 pedestrian x1,0.95,1.0,0.0
+7,Land use - driver-side,1,False,Commercial,1.0,Commercial x10,1.0,0.0,0.0
+8,Land use - passenger-side,1,False,Commercial,1.0,Commercial x10,1.0,0.0,0.0
+9,Area type,1,False,Urban,1.0,Urban x10,1.0,0.0,0.0
+10,Median type,3,True,UNCLASSIFIABLE,0.5,UNCLASSIFIABLE x5; Physical median width 1 to <5m x3; Centre line x2,0.5,0.75,0.75
+11,Centreline rumble strips,1,False,Not present,1.0,Not present x10,1.0,0.0,0.0
+12,Roadside severity - driver-side object,3,True,Rigid structure or building,0.5,Rigid structure or building x5; Tree ≥10cm x3; Low rigid object ≥20cm high x2,0.93,0.3,0.0
+13,Roadside severity - passenger-side object,3,True,Rigid structure or building,0.6,Rigid structure or building x6; Low rigid object ≥20cm high x3; No object x1,0.96,0.5,0.0
+14,Shoulder rumble strips,1,False,Not present,1.0,Not present x10,1.0,0.0,0.0
+15,Paved shoulder - driver-side,1,False,_None_,1.0,_None_ x10,1.0,0.0,0.0
+16,Paved shoulder - passenger-side,1,False,_None_,1.0,_None_ x10,0.98,0.05,0.0
+17,Intersection type,3,True,_None_,0.6,_None_ x6; Roundabout x3; 4-leg (signalised) with no protected turn lane x1,0.96,0.2,0.0
+18,Intersection channelisation,1,False,Not present,1.0,Not present x10,1.0,0.3,0.0
+19,Intersection quality,2,True,Not applicable,0.6,Not applicable x6; Poor x4,0.96,0.25,0.0
+20,Property access points,1,False,Commercial access ≥1,1.0,Commercial access ≥1 x10,1.0,0.1,0.0
+21,Number of lanes,3,True,Two,0.8,Two x8; Three x1; Four or more x1,1.0,0.75,0.0
+22,Curvature,2,True,Straight or gently curving,0.8,Straight or gently curving x8; Moderate x2,0.92,0.05,0.0
+23,Quality of curve,3,True,Not applicable,0.8,Not applicable x8; Poor x1; Adequate x1,0.92,0.15,0.0
+24,Grade,1,False,0% to <7.5%,1.0,0% to <7.5% x10,1.0,0.0,0.0
+25,Road condition,3,True,Good,0.6,Good x6; Medium x3; Poor x1,0.89,0.05,0.0
+26,Delineation,2,True,Adequate,0.5,Adequate x5; Poor x5,0.92,0.05,0.0
+27,Street lighting,2,True,Not present,0.8,Not present x8; Present x2,0.97,0.95,0.0
+28,Pedestrian crossing facilities - inspected road,1,False,No facility,1.0,No facility x10,1.0,0.0,0.0
+29,Pedestrian crossing quality,1,False,Not applicable,1.0,Not applicable x10,1.0,0.0,0.0
+30,Pedestrian crossing facilities - intersecting road,1,False,No facility,1.0,No facility x10,1.0,0.0,0.0
+31,Pedestrian fencing,2,True,Present,0.5,Present x5; Not present x5,0.98,0.2,0.0
+32,Speed management / traffic calming,1,False,Not present,1.0,Not present x10,1.0,0.0,0.0
+33,Vehicle parking,2,True,One side,0.5,One side x5; Two side x5,0.96,0.1,0.0
+34,Sidewalk - driver-side,3,True,_None_,0.6,_None_ x6; Sidewalk 0m to <1m from road x2; Informal path ≥1m x2,0.92,0.45,0.0
+35,Sidewalk - passenger-side,4,True,_None_,0.4,_None_ x4; Sidewalk with barrier x2; Informal path ≥1m x2; Sidewalk 0m to <1m from road x2,0.96,0.6,0.0
+36,Service road,1,False,Not present,1.0,Not present x10,1.0,0.0,0.0
+37,Facilities for motorised two wheelers,1,False,_None_,1.0,_None_ x10,1.0,0.0,0.0
+38,Facilities for bicycles,1,False,_None_,1.0,_None_ x10,1.0,0.0,0.0
+39,Roadworks,1,False,No road works,1.0,No road works x10,1.0,0.0,0.0
+40,School zone warning,1,False,Not applicable (no school at the location),1.0,Not applicable (no school at the location) x10,1.0,0.0,0.0
+41,School zone crossing supervisor,1,False,Not applicable (no school at the location),1.0,Not applicable (no school at the location) x10,1.0,0.0,0.0

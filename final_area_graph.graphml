@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d4" for="edge" attr.name="n_images" attr.type="long" />
+  <key id="d3" for="edge" attr.name="road_name" attr.type="string" />
+  <key id="d2" for="edge" attr.name="road_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="lon" attr.type="float" />
+  <key id="d0" for="node" attr.name="lat" attr.type="float" />
+  <graph edgedefault="undirected">
+    <node id="387810560">
+      <data key="d0">23.7278604</data>
+      <data key="d1">90.4176521</data>
+    </node>
+    <node id="9907465538">
+      <data key="d0">23.7279726</data>
+      <data key="d1">90.4168001</data>
+    </node>
+    <node id="387813463">
+      <data key="d0">23.7285146</data>
+      <data key="d1">90.4170896</data>
+    </node>
+    <node id="264891930">
+      <data key="d0">23.7280368</data>
+      <data key="d1">90.4167233</data>
+    </node>
+    <node id="4894998175">
+      <data key="d0">23.7278645</data>
+      <data key="d1">90.4159268</data>
+    </node>
+    <node id="4894998179">
+      <data key="d0">23.7279539</data>
+      <data key="d1">90.4157489</data>
+    </node>
+    <node id="387806314">
+      <data key="d0">23.7291902</data>
+      <data key="d1">90.4159505</data>
+    </node>
+    <node id="6139734197">
+      <data key="d0">23.7289333</data>
+      <data key="d1">90.4173505</data>
+    </node>
+    <node id="387813687">
+      <data key="d0">23.7289402</data>
+      <data key="d1">90.4163633</data>
+    </node>
+    <node id="9907465534">
+      <data key="d0">23.727944</data>
+      <data key="d1">90.4170198</data>
+    </node>
+    <edge source="387810560" target="9907465534">
+      <data key="d2">387810560_9907465534</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">15</data>
+    </edge>
+    <edge source="9907465538" target="9907465534">
+      <data key="d2">9907465534_9907465538</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">4</data>
+    </edge>
+    <edge source="9907465538" target="264891930">
+      <data key="d2">264891930_9907465538</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">2</data>
+    </edge>
+    <edge source="387813463" target="387813687">
+      <data key="d2">387813463_387813687</data>
+      <data key="d3">unnamed road</data>
+      <data key="d4">33</data>
+    </edge>
+    <edge source="387813463" target="264891930">
+      <data key="d2">264891930_387813463</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">10</data>
+    </edge>
+    <edge source="387813463" target="6139734197">
+      <data key="d2">387813463_6139734197</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">10</data>
+    </edge>
+    <edge source="264891930" target="4894998175">
+      <data key="d2">264891930_4894998175</data>
+      <data key="d3">unnamed road</data>
+      <data key="d4">22</data>
+    </edge>
+    <edge source="4894998175" target="4894998179">
+      <data key="d2">4894998175_4894998179</data>
+      <data key="d3">unnamed road</data>
+      <data key="d4">2</data>
+    </edge>
+    <edge source="4894998179" target="387806314">
+      <data key="d2">387806314_4894998179</data>
+      <data key="d3">Dilkusha Road</data>
+      <data key="d4">49</data>
+    </edge>
+    <edge source="387806314" target="387813687">
+      <data key="d2">387806314_387813687</data>
+      <data key="d3">unnamed road</data>
+      <data key="d4">8</data>
+    </edge>
+  </graph>
+</graphml>

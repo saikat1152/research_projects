@@ -1,0 +1,411 @@
+road_id,road_name,q_id,col_id,attribute,answer_code,answer_label,agreement,n_batches,n_images
+264891930_387813463,Dilkusha Road,1,M,Carriageway,3,Undivided road,1.0,1,10
+264891930_387813463,Dilkusha Road,2,O,Motorcycle observed flow,3,2 to 3 motorcycles,1.0,1,10
+264891930_387813463,Dilkusha Road,3,P,Bicycle observed flow,4,4 to 5 bicycles,1.0,1,10
+264891930_387813463,Dilkusha Road,4,Q,Pedestrian observed flow across the road,5,6 to 7 pedestrians,1.0,1,10
+264891930_387813463,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,1.0,1,10
+264891930_387813463,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,1,10
+264891930_387813463,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,1,10
+264891930_387813463,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,1,10
+264891930_387813463,Dilkusha Road,9,V,Area type,2,Urban,1.0,1,10
+264891930_387813463,Dilkusha Road,10,AA,Median type,11,Centre line,1.0,1,10
+264891930_387813463,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,12,AD,Roadside severity - driver-side object,13,Rigid structure or building,1.0,1,10
+264891930_387813463,Dilkusha Road,13,AF,Roadside severity - passenger-side object,16,Low rigid object ≥20cm high,1.0,1,10
+264891930_387813463,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,10
+264891930_387813463,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,10
+264891930_387813463,Dilkusha Road,17,AJ,Intersection type,12,_None_,1.0,1,10
+264891930_387813463,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,19,AM,Intersection quality,3,Not applicable,1.0,1,10
+264891930_387813463,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,10
+264891930_387813463,Dilkusha Road,21,AO,Number of lanes,2,Two,1.0,1,10
+264891930_387813463,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,1.0,1,10
+264891930_387813463,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,1.0,1,10
+264891930_387813463,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,1,10
+264891930_387813463,Dilkusha Road,25,AT,Road condition,1,Good,1.0,1,10
+264891930_387813463,Dilkusha Road,26,AV,Delineation,1,Adequate,1.0,1,10
+264891930_387813463,Dilkusha Road,27,AW,Street lighting,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,10
+264891930_387813463,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,10
+264891930_387813463,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,10
+264891930_387813463,Dilkusha Road,31,BA,Pedestrian fencing,2,Present,1.0,1,10
+264891930_387813463,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,33,BC,Vehicle parking,2,One side,1.0,1,10
+264891930_387813463,Dilkusha Road,34,BD,Sidewalk - driver-side,4,Sidewalk 0m to <1m from road,1.0,1,10
+264891930_387813463,Dilkusha Road,35,BE,Sidewalk - passenger-side,1,Sidewalk with barrier,1.0,1,10
+264891930_387813463,Dilkusha Road,36,BF,Service road,1,Not present,1.0,1,10
+264891930_387813463,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,10
+264891930_387813463,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,1,10
+264891930_387813463,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,1,10
+264891930_387813463,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,10
+264891930_387813463,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,10
+264891930_4894998175,unnamed road,1,M,Carriageway,3,Undivided road,1.0,3,22
+264891930_4894998175,unnamed road,2,O,Motorcycle observed flow,1,_None_,0.55,3,22
+264891930_4894998175,unnamed road,3,P,Bicycle observed flow,4,4 to 5 bicycles,0.55,3,22
+264891930_4894998175,unnamed road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,0.55,3,22
+264891930_4894998175,unnamed road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,0.91,3,22
+264891930_4894998175,unnamed road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,0.55,3,22
+264891930_4894998175,unnamed road,7,T,Land use - driver-side,4,Commercial,1.0,3,22
+264891930_4894998175,unnamed road,8,U,Land use - passenger-side,4,Commercial,1.0,3,22
+264891930_4894998175,unnamed road,9,V,Area type,2,Urban,1.0,3,22
+264891930_4894998175,unnamed road,10,AA,Median type,11,Centre line,1.0,3,22
+264891930_4894998175,unnamed road,11,AB,Centreline rumble strips,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,12,AD,Roadside severity - driver-side object,13,Rigid structure or building,0.91,3,22
+264891930_4894998175,unnamed road,13,AF,Roadside severity - passenger-side object,16,Low rigid object ≥20cm high,0.91,3,22
+264891930_4894998175,unnamed road,14,AG,Shoulder rumble strips,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,3,22
+264891930_4894998175,unnamed road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,3,22
+264891930_4894998175,unnamed road,17,AJ,Intersection type,2,Roundabout,0.55,3,22
+264891930_4894998175,unnamed road,18,AK,Intersection channelisation,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,19,AM,Intersection quality,2,Poor,0.55,3,22
+264891930_4894998175,unnamed road,20,AN,Property access points,1,Commercial access ≥1,1.0,3,22
+264891930_4894998175,unnamed road,21,AO,Number of lanes,2,Two,1.0,3,22
+264891930_4894998175,unnamed road,22,AQ,Curvature,1,Straight or gently curving,0.91,3,22
+264891930_4894998175,unnamed road,23,AR,Quality of curve,3,Not applicable,0.91,3,22
+264891930_4894998175,unnamed road,24,AS,Grade,1,0% to <7.5%,1.0,3,22
+264891930_4894998175,unnamed road,25,AT,Road condition,1,Good,0.45,3,22
+264891930_4894998175,unnamed road,26,AV,Delineation,2,Poor,0.55,3,22
+264891930_4894998175,unnamed road,27,AW,Street lighting,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,3,22
+264891930_4894998175,unnamed road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,3,22
+264891930_4894998175,unnamed road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,3,22
+264891930_4894998175,unnamed road,31,BA,Pedestrian fencing,2,Present,0.91,3,22
+264891930_4894998175,unnamed road,32,BB,Speed management / traffic calming,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,33,BC,Vehicle parking,2,One side,1.0,3,22
+264891930_4894998175,unnamed road,34,BD,Sidewalk - driver-side,5,_None_,0.55,3,22
+264891930_4894998175,unnamed road,35,BE,Sidewalk - passenger-side,1,Sidewalk with barrier,0.91,3,22
+264891930_4894998175,unnamed road,36,BF,Service road,1,Not present,1.0,3,22
+264891930_4894998175,unnamed road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,3,22
+264891930_4894998175,unnamed road,38,BH,Facilities for bicycles,4,_None_,1.0,3,22
+264891930_4894998175,unnamed road,39,BI,Roadworks,1,No road works,1.0,3,22
+264891930_4894998175,unnamed road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,3,22
+264891930_4894998175,unnamed road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,3,22
+264891930_9907465538,Dilkusha Road,1,M,Carriageway,1,Carriageway A of a divided road,1.0,1,2
+264891930_9907465538,Dilkusha Road,2,O,Motorcycle observed flow,2,1 motorcycle,1.0,1,2
+264891930_9907465538,Dilkusha Road,3,P,Bicycle observed flow,1,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,4,Q,Pedestrian observed flow across the road,2,1 pedestrian,1.0,1,2
+264891930_9907465538,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,1,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,1,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,1,2
+264891930_9907465538,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,1,2
+264891930_9907465538,Dilkusha Road,9,V,Area type,2,Urban,1.0,1,2
+264891930_9907465538,Dilkusha Road,10,AA,Median type,6,Physical median width 1 to <5m,1.0,1,2
+264891930_9907465538,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,12,AD,Roadside severity - driver-side object,11,Tree ≥10cm,1.0,1,2
+264891930_9907465538,Dilkusha Road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,1.0,1,2
+264891930_9907465538,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,17,AJ,Intersection type,12,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,19,AM,Intersection quality,3,Not applicable,1.0,1,2
+264891930_9907465538,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,2
+264891930_9907465538,Dilkusha Road,21,AO,Number of lanes,2,Two,1.0,1,2
+264891930_9907465538,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,1.0,1,2
+264891930_9907465538,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,1.0,1,2
+264891930_9907465538,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,1,2
+264891930_9907465538,Dilkusha Road,25,AT,Road condition,1,Good,1.0,1,2
+264891930_9907465538,Dilkusha Road,26,AV,Delineation,1,Adequate,1.0,1,2
+264891930_9907465538,Dilkusha Road,27,AW,Street lighting,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,2
+264891930_9907465538,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,2
+264891930_9907465538,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,2
+264891930_9907465538,Dilkusha Road,31,BA,Pedestrian fencing,2,Present,1.0,1,2
+264891930_9907465538,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,33,BC,Vehicle parking,2,One side,1.0,1,2
+264891930_9907465538,Dilkusha Road,34,BD,Sidewalk - driver-side,5,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,35,BE,Sidewalk - passenger-side,5,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,36,BF,Service road,1,Not present,1.0,1,2
+264891930_9907465538,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,1,2
+264891930_9907465538,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,1,2
+264891930_9907465538,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,2
+264891930_9907465538,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,2
+387806314_387813687,unnamed road,1,M,Carriageway,3,Undivided road,1.0,1,8
+387806314_387813687,unnamed road,2,O,Motorcycle observed flow,1,_None_,1.0,1,8
+387806314_387813687,unnamed road,3,P,Bicycle observed flow,1,_None_,1.0,1,8
+387806314_387813687,unnamed road,4,Q,Pedestrian observed flow across the road,2,1 pedestrian,1.0,1,8
+387806314_387813687,unnamed road,5,R,Pedestrian observed flow along the road driver-side,4,4 to 5 pedestrians,1.0,1,8
+387806314_387813687,unnamed road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,1,8
+387806314_387813687,unnamed road,7,T,Land use - driver-side,4,Commercial,1.0,1,8
+387806314_387813687,unnamed road,8,U,Land use - passenger-side,4,Commercial,1.0,1,8
+387806314_387813687,unnamed road,9,V,Area type,2,Urban,1.0,1,8
+387806314_387813687,unnamed road,10,AA,Median type,,UNCLASSIFIABLE,0,1,8
+387806314_387813687,unnamed road,11,AB,Centreline rumble strips,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,12,AD,Roadside severity - driver-side object,13,Rigid structure or building,1.0,1,8
+387806314_387813687,unnamed road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,1.0,1,8
+387806314_387813687,unnamed road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,8
+387806314_387813687,unnamed road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,8
+387806314_387813687,unnamed road,17,AJ,Intersection type,12,_None_,1.0,1,8
+387806314_387813687,unnamed road,18,AK,Intersection channelisation,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,19,AM,Intersection quality,3,Not applicable,1.0,1,8
+387806314_387813687,unnamed road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,8
+387806314_387813687,unnamed road,21,AO,Number of lanes,2,Two,1.0,1,8
+387806314_387813687,unnamed road,22,AQ,Curvature,1,Straight or gently curving,1.0,1,8
+387806314_387813687,unnamed road,23,AR,Quality of curve,3,Not applicable,1.0,1,8
+387806314_387813687,unnamed road,24,AS,Grade,1,0% to <7.5%,1.0,1,8
+387806314_387813687,unnamed road,25,AT,Road condition,2,Medium,1.0,1,8
+387806314_387813687,unnamed road,26,AV,Delineation,1,Adequate,1.0,1,8
+387806314_387813687,unnamed road,27,AW,Street lighting,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,8
+387806314_387813687,unnamed road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,8
+387806314_387813687,unnamed road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,8
+387806314_387813687,unnamed road,31,BA,Pedestrian fencing,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,33,BC,Vehicle parking,3,Two side,1.0,1,8
+387806314_387813687,unnamed road,34,BD,Sidewalk - driver-side,5,_None_,1.0,1,8
+387806314_387813687,unnamed road,35,BE,Sidewalk - passenger-side,5,_None_,1.0,1,8
+387806314_387813687,unnamed road,36,BF,Service road,1,Not present,1.0,1,8
+387806314_387813687,unnamed road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,8
+387806314_387813687,unnamed road,38,BH,Facilities for bicycles,4,_None_,1.0,1,8
+387806314_387813687,unnamed road,39,BI,Roadworks,1,No road works,1.0,1,8
+387806314_387813687,unnamed road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,8
+387806314_387813687,unnamed road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,8
+387806314_4894998179,Dilkusha Road,1,M,Carriageway,3,Undivided road,1.0,5,49
+387806314_4894998179,Dilkusha Road,2,O,Motorcycle observed flow,1,_None_,0.59,5,49
+387806314_4894998179,Dilkusha Road,3,P,Bicycle observed flow,2,1 bicycle,0.82,5,49
+387806314_4894998179,Dilkusha Road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,0.8,5,49
+387806314_4894998179,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,1.0,5,49
+387806314_4894998179,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,5,49
+387806314_4894998179,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,5,49
+387806314_4894998179,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,5,49
+387806314_4894998179,Dilkusha Road,9,V,Area type,2,Urban,1.0,5,49
+387806314_4894998179,Dilkusha Road,10,AA,Median type,,UNCLASSIFIABLE,0,5,49
+387806314_4894998179,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,12,AD,Roadside severity - driver-side object,11,Tree ≥10cm,0.82,5,49
+387806314_4894998179,Dilkusha Road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,0.8,5,49
+387806314_4894998179,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,5,49
+387806314_4894998179,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,0.8,5,49
+387806314_4894998179,Dilkusha Road,17,AJ,Intersection type,12,_None_,1.0,5,49
+387806314_4894998179,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,19,AM,Intersection quality,3,Not applicable,1.0,5,49
+387806314_4894998179,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,5,49
+387806314_4894998179,Dilkusha Road,21,AO,Number of lanes,2,Two,1.0,5,49
+387806314_4894998179,Dilkusha Road,22,AQ,Curvature,2,Moderate,0.59,5,49
+387806314_4894998179,Dilkusha Road,23,AR,Quality of curve,2,Poor,0.59,5,49
+387806314_4894998179,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,5,49
+387806314_4894998179,Dilkusha Road,25,AT,Road condition,2,Medium,0.59,5,49
+387806314_4894998179,Dilkusha Road,26,AV,Delineation,2,Poor,0.61,5,49
+387806314_4894998179,Dilkusha Road,27,AW,Street lighting,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,5,49
+387806314_4894998179,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,5,49
+387806314_4894998179,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,5,49
+387806314_4894998179,Dilkusha Road,31,BA,Pedestrian fencing,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,33,BC,Vehicle parking,3,Two side,1.0,5,49
+387806314_4894998179,Dilkusha Road,34,BD,Sidewalk - driver-side,6,Informal path ≥1m,1.0,5,49
+387806314_4894998179,Dilkusha Road,35,BE,Sidewalk - passenger-side,6,Informal path ≥1m,0.8,5,49
+387806314_4894998179,Dilkusha Road,36,BF,Service road,1,Not present,1.0,5,49
+387806314_4894998179,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,5,49
+387806314_4894998179,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,5,49
+387806314_4894998179,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,5,49
+387806314_4894998179,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,5,49
+387806314_4894998179,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,5,49
+387810560_9907465534,Dilkusha Road,1,M,Carriageway,3,Undivided road,1.0,2,15
+387810560_9907465534,Dilkusha Road,2,O,Motorcycle observed flow,3,2 to 3 motorcycles,1.0,2,15
+387810560_9907465534,Dilkusha Road,3,P,Bicycle observed flow,5,6 to 7 bicycles,0.67,2,15
+387810560_9907465534,Dilkusha Road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,1.0,2,15
+387810560_9907465534,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,1.0,2,15
+387810560_9907465534,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,2,15
+387810560_9907465534,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,2,15
+387810560_9907465534,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,2,15
+387810560_9907465534,Dilkusha Road,9,V,Area type,2,Urban,1.0,2,15
+387810560_9907465534,Dilkusha Road,10,AA,Median type,,UNCLASSIFIABLE,0,2,15
+387810560_9907465534,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,12,AD,Roadside severity - driver-side object,13,Rigid structure or building,0.67,2,15
+387810560_9907465534,Dilkusha Road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,1.0,2,15
+387810560_9907465534,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,2,15
+387810560_9907465534,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,2,15
+387810560_9907465534,Dilkusha Road,17,AJ,Intersection type,2,Roundabout,1.0,2,15
+387810560_9907465534,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,19,AM,Intersection quality,2,Poor,1.0,2,15
+387810560_9907465534,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,2,15
+387810560_9907465534,Dilkusha Road,21,AO,Number of lanes,2,Two,1.0,2,15
+387810560_9907465534,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,0.67,2,15
+387810560_9907465534,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,0.67,2,15
+387810560_9907465534,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,2,15
+387810560_9907465534,Dilkusha Road,25,AT,Road condition,1,Good,1.0,2,15
+387810560_9907465534,Dilkusha Road,26,AV,Delineation,2,Poor,1.0,2,15
+387810560_9907465534,Dilkusha Road,27,AW,Street lighting,2,Present,0.67,2,15
+387810560_9907465534,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,2,15
+387810560_9907465534,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,2,15
+387810560_9907465534,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,2,15
+387810560_9907465534,Dilkusha Road,31,BA,Pedestrian fencing,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,33,BC,Vehicle parking,3,Two side,0.67,2,15
+387810560_9907465534,Dilkusha Road,34,BD,Sidewalk - driver-side,4,Sidewalk 0m to <1m from road,1.0,2,15
+387810560_9907465534,Dilkusha Road,35,BE,Sidewalk - passenger-side,5,_None_,1.0,2,15
+387810560_9907465534,Dilkusha Road,36,BF,Service road,1,Not present,1.0,2,15
+387810560_9907465534,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,2,15
+387810560_9907465534,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,2,15
+387810560_9907465534,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,2,15
+387810560_9907465534,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,2,15
+387810560_9907465534,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,2,15
+387813463_387813687,unnamed road,1,M,Carriageway,3,Undivided road,0.91,4,33
+387813463_387813687,unnamed road,2,O,Motorcycle observed flow,1,_None_,0.61,4,33
+387813463_387813687,unnamed road,3,P,Bicycle observed flow,1,_None_,0.91,4,33
+387813463_387813687,unnamed road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,0.61,4,33
+387813463_387813687,unnamed road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,0.91,4,33
+387813463_387813687,unnamed road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,0.91,4,33
+387813463_387813687,unnamed road,7,T,Land use - driver-side,4,Commercial,1.0,4,33
+387813463_387813687,unnamed road,8,U,Land use - passenger-side,4,Commercial,1.0,4,33
+387813463_387813687,unnamed road,9,V,Area type,2,Urban,1.0,4,33
+387813463_387813687,unnamed road,10,AA,Median type,6,Physical median width 1 to <5m,1.0,4,33
+387813463_387813687,unnamed road,11,AB,Centreline rumble strips,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,12,AD,Roadside severity - driver-side object,13,Rigid structure or building,0.91,4,33
+387813463_387813687,unnamed road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,0.91,4,33
+387813463_387813687,unnamed road,14,AG,Shoulder rumble strips,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,4,33
+387813463_387813687,unnamed road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,4,33
+387813463_387813687,unnamed road,17,AJ,Intersection type,12,_None_,1.0,4,33
+387813463_387813687,unnamed road,18,AK,Intersection channelisation,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,19,AM,Intersection quality,3,Not applicable,1.0,4,33
+387813463_387813687,unnamed road,20,AN,Property access points,1,Commercial access ≥1,1.0,4,33
+387813463_387813687,unnamed road,21,AO,Number of lanes,2,Two,1.0,4,33
+387813463_387813687,unnamed road,22,AQ,Curvature,1,Straight or gently curving,1.0,4,33
+387813463_387813687,unnamed road,23,AR,Quality of curve,3,Not applicable,1.0,4,33
+387813463_387813687,unnamed road,24,AS,Grade,1,0% to <7.5%,1.0,4,33
+387813463_387813687,unnamed road,25,AT,Road condition,3,Poor,0.91,4,33
+387813463_387813687,unnamed road,26,AV,Delineation,1,Adequate,1.0,4,33
+387813463_387813687,unnamed road,27,AW,Street lighting,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,4,33
+387813463_387813687,unnamed road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,4,33
+387813463_387813687,unnamed road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,4,33
+387813463_387813687,unnamed road,31,BA,Pedestrian fencing,1,Not present,0.91,4,33
+387813463_387813687,unnamed road,32,BB,Speed management / traffic calming,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,33,BC,Vehicle parking,3,Two side,0.91,4,33
+387813463_387813687,unnamed road,34,BD,Sidewalk - driver-side,6,Informal path ≥1m,0.61,4,33
+387813463_387813687,unnamed road,35,BE,Sidewalk - passenger-side,6,Informal path ≥1m,0.91,4,33
+387813463_387813687,unnamed road,36,BF,Service road,1,Not present,1.0,4,33
+387813463_387813687,unnamed road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,4,33
+387813463_387813687,unnamed road,38,BH,Facilities for bicycles,4,_None_,1.0,4,33
+387813463_387813687,unnamed road,39,BI,Roadworks,1,No road works,1.0,4,33
+387813463_387813687,unnamed road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,4,33
+387813463_387813687,unnamed road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,4,33
+387813463_6139734197,Dilkusha Road,1,M,Carriageway,3,Undivided road,1.0,1,10
+387813463_6139734197,Dilkusha Road,2,O,Motorcycle observed flow,4,4 to 5 motorcycles,1.0,1,10
+387813463_6139734197,Dilkusha Road,3,P,Bicycle observed flow,4,4 to 5 bicycles,1.0,1,10
+387813463_6139734197,Dilkusha Road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,1.0,1,10
+387813463_6139734197,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,1.0,1,10
+387813463_6139734197,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,1,10
+387813463_6139734197,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,1,10
+387813463_6139734197,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,1,10
+387813463_6139734197,Dilkusha Road,9,V,Area type,2,Urban,1.0,1,10
+387813463_6139734197,Dilkusha Road,10,AA,Median type,,UNCLASSIFIABLE,0,1,10
+387813463_6139734197,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,12,AD,Roadside severity - driver-side object,16,Low rigid object ≥20cm high,1.0,1,10
+387813463_6139734197,Dilkusha Road,13,AF,Roadside severity - passenger-side object,13,Rigid structure or building,1.0,1,10
+387813463_6139734197,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,10
+387813463_6139734197,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,10
+387813463_6139734197,Dilkusha Road,17,AJ,Intersection type,10,4-leg (signalised) with no protected turn lane,1.0,1,10
+387813463_6139734197,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,19,AM,Intersection quality,2,Poor,1.0,1,10
+387813463_6139734197,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,10
+387813463_6139734197,Dilkusha Road,21,AO,Number of lanes,3,Three,1.0,1,10
+387813463_6139734197,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,1.0,1,10
+387813463_6139734197,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,1.0,1,10
+387813463_6139734197,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,1,10
+387813463_6139734197,Dilkusha Road,25,AT,Road condition,2,Medium,1.0,1,10
+387813463_6139734197,Dilkusha Road,26,AV,Delineation,2,Poor,1.0,1,10
+387813463_6139734197,Dilkusha Road,27,AW,Street lighting,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,10
+387813463_6139734197,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,10
+387813463_6139734197,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,10
+387813463_6139734197,Dilkusha Road,31,BA,Pedestrian fencing,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,33,BC,Vehicle parking,3,Two side,1.0,1,10
+387813463_6139734197,Dilkusha Road,34,BD,Sidewalk - driver-side,5,_None_,1.0,1,10
+387813463_6139734197,Dilkusha Road,35,BE,Sidewalk - passenger-side,4,Sidewalk 0m to <1m from road,1.0,1,10
+387813463_6139734197,Dilkusha Road,36,BF,Service road,1,Not present,1.0,1,10
+387813463_6139734197,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,10
+387813463_6139734197,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,1,10
+387813463_6139734197,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,1,10
+387813463_6139734197,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,10
+387813463_6139734197,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,10
+4894998175_4894998179,unnamed road,1,M,Carriageway,3,Undivided road,1.0,1,2
+4894998175_4894998179,unnamed road,2,O,Motorcycle observed flow,3,2 to 3 motorcycles,1.0,1,2
+4894998175_4894998179,unnamed road,3,P,Bicycle observed flow,3,2 to 3 bicycles,1.0,1,2
+4894998175_4894998179,unnamed road,4,Q,Pedestrian observed flow across the road,5,6 to 7 pedestrians,1.0,1,2
+4894998175_4894998179,unnamed road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,1.0,1,2
+4894998175_4894998179,unnamed road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,1.0,1,2
+4894998175_4894998179,unnamed road,7,T,Land use - driver-side,4,Commercial,1.0,1,2
+4894998175_4894998179,unnamed road,8,U,Land use - passenger-side,4,Commercial,1.0,1,2
+4894998175_4894998179,unnamed road,9,V,Area type,2,Urban,1.0,1,2
+4894998175_4894998179,unnamed road,10,AA,Median type,,UNCLASSIFIABLE,0,1,2
+4894998175_4894998179,unnamed road,11,AB,Centreline rumble strips,1,Not present,1.0,1,2
+4894998175_4894998179,unnamed road,12,AD,Roadside severity - driver-side object,16,Low rigid object ≥20cm high,1.0,1,2
+4894998175_4894998179,unnamed road,13,AF,Roadside severity - passenger-side object,17,No object,1.0,1,2
+4894998175_4894998179,unnamed road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,2
+4894998175_4894998179,unnamed road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,17,AJ,Intersection type,2,Roundabout,1.0,1,2
+4894998175_4894998179,unnamed road,18,AK,Intersection channelisation,1,Not present,1.0,1,2
+4894998175_4894998179,unnamed road,19,AM,Intersection quality,2,Poor,1.0,1,2
+4894998175_4894998179,unnamed road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,2
+4894998175_4894998179,unnamed road,21,AO,Number of lanes,4,Four or more,1.0,1,2
+4894998175_4894998179,unnamed road,22,AQ,Curvature,2,Moderate,1.0,1,2
+4894998175_4894998179,unnamed road,23,AR,Quality of curve,1,Adequate,1.0,1,2
+4894998175_4894998179,unnamed road,24,AS,Grade,1,0% to <7.5%,1.0,1,2
+4894998175_4894998179,unnamed road,25,AT,Road condition,1,Good,1.0,1,2
+4894998175_4894998179,unnamed road,26,AV,Delineation,2,Poor,1.0,1,2
+4894998175_4894998179,unnamed road,27,AW,Street lighting,2,Present,1.0,1,2
+4894998175_4894998179,unnamed road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,2
+4894998175_4894998179,unnamed road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,2
+4894998175_4894998179,unnamed road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,2
+4894998175_4894998179,unnamed road,31,BA,Pedestrian fencing,2,Present,1.0,1,2
+4894998175_4894998179,unnamed road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,2
+4894998175_4894998179,unnamed road,33,BC,Vehicle parking,2,One side,1.0,1,2
+4894998175_4894998179,unnamed road,34,BD,Sidewalk - driver-side,5,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,35,BE,Sidewalk - passenger-side,5,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,36,BF,Service road,1,Not present,1.0,1,2
+4894998175_4894998179,unnamed road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,38,BH,Facilities for bicycles,4,_None_,1.0,1,2
+4894998175_4894998179,unnamed road,39,BI,Roadworks,1,No road works,1.0,1,2
+4894998175_4894998179,unnamed road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,2
+4894998175_4894998179,unnamed road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,2
+9907465534_9907465538,Dilkusha Road,1,M,Carriageway,1,Carriageway A of a divided road,1.0,1,4
+9907465534_9907465538,Dilkusha Road,2,O,Motorcycle observed flow,3,2 to 3 motorcycles,1.0,1,4
+9907465534_9907465538,Dilkusha Road,3,P,Bicycle observed flow,1,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,4,Q,Pedestrian observed flow across the road,3,2 to 3 pedestrians,1.0,1,4
+9907465534_9907465538,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,2,1 pedestrian,1.0,1,4
+9907465534_9907465538,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,2,1 pedestrian,1.0,1,4
+9907465534_9907465538,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,1.0,1,4
+9907465534_9907465538,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,1.0,1,4
+9907465534_9907465538,Dilkusha Road,9,V,Area type,2,Urban,1.0,1,4
+9907465534_9907465538,Dilkusha Road,10,AA,Median type,6,Physical median width 1 to <5m,1.0,1,4
+9907465534_9907465538,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,12,AD,Roadside severity - driver-side object,11,Tree ≥10cm,1.0,1,4
+9907465534_9907465538,Dilkusha Road,13,AF,Roadside severity - passenger-side object,16,Low rigid object ≥20cm high,1.0,1,4
+9907465534_9907465538,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,17,AJ,Intersection type,12,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,19,AM,Intersection quality,3,Not applicable,1.0,1,4
+9907465534_9907465538,Dilkusha Road,20,AN,Property access points,1,Commercial access ≥1,1.0,1,4
+9907465534_9907465538,Dilkusha Road,21,AO,Number of lanes,2,Two,1.0,1,4
+9907465534_9907465538,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,1.0,1,4
+9907465534_9907465538,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,1.0,1,4
+9907465534_9907465538,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,1.0,1,4
+9907465534_9907465538,Dilkusha Road,25,AT,Road condition,1,Good,1.0,1,4
+9907465534_9907465538,Dilkusha Road,26,AV,Delineation,1,Adequate,1.0,1,4
+9907465534_9907465538,Dilkusha Road,27,AW,Street lighting,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,1.0,1,4
+9907465534_9907465538,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,1.0,1,4
+9907465534_9907465538,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,1.0,1,4
+9907465534_9907465538,Dilkusha Road,31,BA,Pedestrian fencing,2,Present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,33,BC,Vehicle parking,2,One side,1.0,1,4
+9907465534_9907465538,Dilkusha Road,34,BD,Sidewalk - driver-side,5,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,35,BE,Sidewalk - passenger-side,4,Sidewalk 0m to <1m from road,1.0,1,4
+9907465534_9907465538,Dilkusha Road,36,BF,Service road,1,Not present,1.0,1,4
+9907465534_9907465538,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,1.0,1,4
+9907465534_9907465538,Dilkusha Road,39,BI,Roadworks,1,No road works,1.0,1,4
+9907465534_9907465538,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),1.0,1,4
+9907465534_9907465538,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),1.0,1,4

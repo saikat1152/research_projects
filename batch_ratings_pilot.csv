@@ -1,0 +1,42 @@
+batch_id,road_id,road_name,q_id,col_id,attribute,answer_code,answer_label,confidence,note
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,1,M,Carriageway,3,Undivided road,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,2,O,Motorcycle observed flow,1,_None_,medium,Motorcycles seen are parked/stationary at curb; none observed moving through traffic in this batch
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,3,P,Bicycle observed flow,2,1 bicycle,low,"One parked bicycle visible; cycle rickshaws present but not counted as ""bicycle"""
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,4,Q,Pedestrian observed flow across the road,4,4 to 5 pedestrians,medium,Faces are privacy-blurred which makes exact counting harder
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,5,R,Pedestrian observed flow along the road driver-side,3,2 to 3 pedestrians,low,"""Driver-side"" is ambiguous for pedestrian-captured (Mapillary) images with no fixed vehicle heading - see note to user"
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,6,S,Pedestrian observed flow along the road passenger-side,3,2 to 3 pedestrians,low,Same driver/passenger-side ambiguity as Q5
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,7,T,Land use - driver-side,4,Commercial,high,Shops/market stalls/hotel visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,8,U,Land use - passenger-side,4,Commercial,high,Shops/market stalls visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,9,V,Area type,2,Urban,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,10,AA,Median type,,UNCLASSIFIABLE,low,No median or clear centreline visible in this batch - none of the 15 listed options cleanly fit an undivided road with no centreline paint; flagging for user review rather than guessing
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,11,AB,Centreline rumble strips,1,Not present,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,12,AD,Roadside severity - driver-side object,11,Tree >=10cm,medium,Mature trees line the road close to the edge
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,13,AF,Roadside severity - passenger-side object,11,Tree >=10cm,medium,Mature trees line the road close to the edge
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,14,AG,Shoulder rumble strips,1,Not present,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,15,AH,Paved shoulder - driver-side,4,_None_,medium,"Edge is occupied by parking/vendors, not a distinct paved shoulder"
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,16,AI,Paved shoulder - passenger-side,4,_None_,medium,Edge occupied by parking/vendor stalls
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,17,AJ,Intersection type,12,_None_,medium,No intersection visible within this batch's frames
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,18,AK,Intersection channelisation,1,Not present,medium,No intersection present
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,19,AM,Intersection quality,3,Not applicable,medium,No intersection present
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,20,AN,Property access points,1,Commercial access >=1,high,Continuous shopfronts on both sides
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,21,AO,Number of lanes,2,Two,low,No lane markings present; estimated from informal traffic use
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,22,AQ,Curvature,1,Straight or gently curving,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,23,AR,Quality of curve,3,Not applicable,high,Road is straight
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,24,AS,Grade,1,0% to <7.5%,high,Flat terrain
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,25,AT,Road condition,2,Medium,medium,Visible patch repairs and surface staining but no potholes
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,26,AV,Delineation,2,Poor,medium,No consistent lane/edge markings visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,27,AW,Street lighting,1,Not present,low,No lighting poles/fixtures clearly identifiable; daytime images limit confidence
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,28,AX,Pedestrian crossing facilities - inspected road,7,No facility,high,No marked crossing visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,29,AY,Pedestrian crossing quality,3,Not applicable,high,No facility present
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,30,AZ,Pedestrian crossing facilities - intersecting road,7,No facility,medium,No intersection visible in this batch
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,31,BA,Pedestrian fencing,1,Not present,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,32,BB,Speed management / traffic calming,1,Not present,high,No bumps/chicanes visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,33,BC,Vehicle parking,3,Two side,high,Cars parked along both sides across the batch
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,34,BD,Sidewalk - driver-side,6,Informal path >=1m,medium,No raised/formal sidewalk; pedestrians use an informal space among vendor stalls
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,35,BE,Sidewalk - passenger-side,6,Informal path >=1m,medium,Same as driver-side
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,36,BF,Service road,1,Not present,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,37,BG,Facilities for motorised two wheelers,6,_None_,high,No dedicated motorcycle lane/path visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,38,BH,Facilities for bicycles,4,_None_,high,No dedicated bicycle lane/path visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,39,BI,Roadworks,1,No road works,high,
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,40,BY,School zone warning,4,Not applicable (no school at the location),high,No school visible
+387806314_4894998179_b1,387806314_4894998179,Dilkusha Road,41,BZ,School zone crossing supervisor,3,Not applicable (no school at the location),high,No school visible
